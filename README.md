@@ -1,5 +1,5 @@
 # Distribucion-de-Weibull
-Estimación de los parámetros de la distribución de Weibull con R mediante cinco métodos y ajuste de una serie de viento a esta distribución:
+Estimación de los parámetros de la distribución de Weibull y posterior ajuste a una serie de viento con R mediante cinco métodos :
 
 1. Mínimos Cuadrados
 2. Máxima Verosimilitud
